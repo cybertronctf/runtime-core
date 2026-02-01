@@ -1,1 +1,1 @@
-print("runtime-core INSERT")
+print("runtime-core UPDATE")
